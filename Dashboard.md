@@ -26,8 +26,7 @@ dv.paragraph(`[[${filePath}|Today's Daily Note]]`);
 # Projects.
 >[!multi-column]
 >>[!note] #### In progress
->>- [ ] [[Kanban - Reinforcement Learning|Reinforcement Learning]]
->>- [ ] [[Kanban - PKRC]]
+>>- [ ] 
 >
 >>[!abstract] ##### On going
 >>

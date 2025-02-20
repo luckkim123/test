@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"811fb48a055ff012","x":-125,"y":-30,"width":250,"height":60,"type":"text","text":"tea;lkteja;lktej"},
+		{"id":"ffe1d61889eea34f","x":80,"y":-520,"width":400,"height":400,"type":"file","file":"3_Archive/3_Drawing/drawing250220.excalidraw.md"}
+	],
+	"edges":[
+		{"id":"9e69ef149089ae1a","fromNode":"811fb48a055ff012","fromSide":"top","toNode":"ffe1d61889eea34f","toSide":"left"}
+	]
+}
